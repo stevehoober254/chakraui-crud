@@ -20,4 +20,4 @@
 
 ## Demo Links
 
-See [Demo](https://github.com/)
+See [Demo](https://chakraui-crud-production.up.railway.app/)
