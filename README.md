@@ -8,7 +8,7 @@
 * Chakra UI
 * Local Storage
 
-## A simple and beautiful CRUD application built with React
+## A simple and beautiful CRUD application
 
 * Dark Mode
 <img src="./src/assets/dark.png">
